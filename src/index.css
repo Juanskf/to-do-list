@@ -1,0 +1,17 @@
+:root {
+  --background: #fff;
+  --contrast: #252525;
+  --main: #cc99ee;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color:#252525 ;
+  font-family: "Segoe UI", "Roboto", "Oxygen";
+}
